@@ -1,3 +1,6 @@
+## !This application may be outdated since riot changed how usernames work!
+
+
 # LOLBot
 ## _Your League of Legends assistant_
 
@@ -19,4 +22,5 @@ It should just work
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
